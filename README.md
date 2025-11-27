@@ -1,5 +1,6 @@
 # NikonZR-ELZONE-LUT
 An ELZone like exposure monitoring LUT for Nikon ZR in Log3G10 Gamma
+this LUT allows Nikon ZR to have a false color exposure experience
 
 Produced according to the Log3G10 specification:  
 18% neutral gray corresponds to 33% IRE.  
