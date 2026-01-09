@@ -1,6 +1,18 @@
 # NikonZR-ELZONE-LUT
 An ELZone like exposure monitoring LUT for Nikon ZR in Log3G10 Gamma
 
+
+Version 2 Changes
+V2更新内容
+
+To make the clipping zone more distinguishable,
+the overexposed clipping shows BLUE, 
+while the underexposed area becomes MAGENTA
+为使裁切区域更易于辨识，
+过曝部分以蓝色显示，
+而欠曝区域则呈现为品红。
+
+---------------
 this LUT allows Nikon ZR to have a false color exposure experience
 
 Produced according to the Log3G10 specification:  
